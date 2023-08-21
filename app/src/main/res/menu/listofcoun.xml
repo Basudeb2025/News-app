@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item
+        android:id="@+id/item_india"
+            android:title="India" />
+        <item
+            android:id="@+id/item_america"
+            android:title="America" />
+        <!-- Add more items as needed -->
+    <item
+        android:id="@+id/item_china"
+        android:title="China" />
+    <item
+        android:id="@+id/item_japan"
+        android:title="Japan" />
+    <item
+        android:id="@+id/item_austre"
+        android:title="Australia" />
+
+</menu>
